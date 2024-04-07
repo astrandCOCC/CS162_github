@@ -1,3 +1,4 @@
+# Andrew Strand:
 # Function to return area of rectangle given length and width:
 def rect_area(length, width):
     return length * width

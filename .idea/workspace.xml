@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf52c438-aff7-43cf-a3d2-23f83827d591" name="Changes" comment="git remote add origin https://github.com/Lchance2/LChance-Git-Assignment.git&#10;git branch -M main&#10;git push -u origin main">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="cf52c438-aff7-43cf-a3d2-23f83827d591" name="Changes" comment="git remote add origin https://github.com/astrandCOCC/andrew_strand.git&#10;git branch -M main&#10;git push -u origin main">
+      <change beforePath="$PROJECT_DIR$/andrew_strand.py" beforeDir="false" afterPath="$PROJECT_DIR$/andrew_strand.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +93,7 @@
       <workItem from="1712338792530" duration="162000" />
       <workItem from="1712338996379" duration="2986000" />
       <workItem from="1712451427639" duration="25000" />
-      <workItem from="1712529048504" duration="3204000" />
+      <workItem from="1712529048504" duration="3436000" />
     </task>
     <task id="LOCAL-00001" summary="https://github.com/brookham/GitHub-assignment.git">
       <option name="closed" value="true" />
@@ -135,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712531817731</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="git remote add origin https://github.com/astrandCOCC/andrew_strand.git&#10;git branch -M main&#10;git push -u origin main">
+      <option name="closed" value="true" />
+      <created>1712532305891</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712532305891</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +176,7 @@
     <MESSAGE value="https://github.com/brookham/GitHub-assignment.git" />
     <MESSAGE value="git remote add origin https://github.com/brookham/GitHub-assignment.git&#10;git branch -M main&#10;git push -u origin main" />
     <MESSAGE value="git remote add origin https://github.com/Lchance2/LChance-Git-Assignment.git&#10;git branch -M main&#10;git push -u origin main" />
-    <option name="LAST_COMMIT_MESSAGE" value="git remote add origin https://github.com/Lchance2/LChance-Git-Assignment.git&#10;git branch -M main&#10;git push -u origin main" />
+    <MESSAGE value="git remote add origin https://github.com/astrandCOCC/andrew_strand.git&#10;git branch -M main&#10;git push -u origin main" />
+    <option name="LAST_COMMIT_MESSAGE" value="git remote add origin https://github.com/astrandCOCC/andrew_strand.git&#10;git branch -M main&#10;git push -u origin main" />
   </component>
 </project>
