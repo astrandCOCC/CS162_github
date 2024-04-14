@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf52c438-aff7-43cf-a3d2-23f83827d591" name="Changes" comment="git remote add origin https://github.com/astrandCOCC/andrew_strand.git&#10;git branch -M main&#10;git push -u origin main">
-      <change beforePath="$PROJECT_DIR$/andrew_strand.py" beforeDir="false" afterPath="$PROJECT_DIR$/andrew_strand.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/CS162_github.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphic_file_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphic_file_exercise_my_chart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/piechart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pauldebruine.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,18 +44,25 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Documents/COCC/CS162/CS162_github",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.Git",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Documents\COCC\CS162\CS162_github" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.graphic_file_exercise_my_chart">
     <configuration name="andrew_strand" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,6 +86,56 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="graphic_file_exercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CS162_github" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/graphic_file_exercise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="graphic_file_exercise_my_chart" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CS162_github" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/graphic_file_exercise_my_chart.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.graphic_file_exercise_my_chart" />
+        <item itemvalue="Python.graphic_file_exercise" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -93,7 +156,10 @@
       <workItem from="1712338792530" duration="162000" />
       <workItem from="1712338996379" duration="2986000" />
       <workItem from="1712451427639" duration="25000" />
-      <workItem from="1712529048504" duration="3436000" />
+      <workItem from="1712529048504" duration="5221000" />
+      <workItem from="1712550499912" duration="249000" />
+      <workItem from="1713134498068" duration="1716000" />
+      <workItem from="1713136237637" duration="1104000" />
     </task>
     <task id="LOCAL-00001" summary="https://github.com/brookham/GitHub-assignment.git">
       <option name="closed" value="true" />
@@ -143,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712532305891</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="git remote add origin https://github.com/astrandCOCC/andrew_strand.git&#10;git branch -M main&#10;git push -u origin main">
+      <option name="closed" value="true" />
+      <created>1712532552260</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712532552260</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,5 +252,9 @@
     <MESSAGE value="git remote add origin https://github.com/Lchance2/LChance-Git-Assignment.git&#10;git branch -M main&#10;git push -u origin main" />
     <MESSAGE value="git remote add origin https://github.com/astrandCOCC/andrew_strand.git&#10;git branch -M main&#10;git push -u origin main" />
     <option name="LAST_COMMIT_MESSAGE" value="git remote add origin https://github.com/astrandCOCC/andrew_strand.git&#10;git branch -M main&#10;git push -u origin main" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CS162_github$graphic_file_exercise_my_chart.coverage" NAME="graphic_file_exercise_my_chart Coverage Results" MODIFIED="1713137282242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CS162_github$graphic_file_exercise.coverage" NAME="graphic_file_exercise Coverage Results" MODIFIED="1713136984877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
